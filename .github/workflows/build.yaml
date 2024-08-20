@@ -16,7 +16,7 @@ jobs:
       - name: Install Sphinx and Packages
         run: |
           pip install sphinx
-          pip install piccolo_theme
+          pip install yummy_sphinx_theme
       - name: Build HTML
         run: make html
             
