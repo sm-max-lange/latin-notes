@@ -14,10 +14,10 @@ Useful resourses:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Year 1:
    :glob:
    :hidden:
 
-   chapters/*
+   chapter1/*
 
 
