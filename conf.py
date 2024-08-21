@@ -29,6 +29,7 @@ author = 'Max Lange'
 # ones.
 extensions = [
     'sphinx.ext.autosectionlabel',
+    'sphinx.ext.mathjax',
 ]
 
 
