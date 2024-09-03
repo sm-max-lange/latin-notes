@@ -12,6 +12,12 @@ Useful resourses:
 
 * `Weelock's Pronouation Guide <http://www.wheelockslatin.com/chapters/introduction/introduction.html>`_
 
+
+TODO List:
+
+.. todolist::
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Year 1:
