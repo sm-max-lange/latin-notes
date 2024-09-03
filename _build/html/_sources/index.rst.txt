@@ -8,12 +8,12 @@ Latin Notes
 
 These are my notes for my Latin Class according to the textbook *Wheelock's Latin*.
 
-.. rubric:: Useful resourses:
+.. rubric:: Useful resourses
 
 * `Weelock's Pronouation Guide <http://www.wheelockslatin.com/chapters/introduction/introduction.html>`_
 
 
-.. rubric:: TODO List:
+.. rubric:: TODO List
 
 .. todolist::
 
