@@ -1,0 +1,6 @@
+Adjectives
+=============
+
+.. todo:: 
+
+    All Adjectives

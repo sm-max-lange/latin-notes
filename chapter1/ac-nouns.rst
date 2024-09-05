@@ -33,7 +33,7 @@ The following types of Latin nouns are used:
       - Pl. 
     
     * - Nominative
-      - Subject of the sentence
+      - Subject
       - N/A
       - :math:`a`
       - :math:`ae`
@@ -43,8 +43,29 @@ The following types of Latin nouns are used:
       - of
       - :math:`ae`
       - :math:`arum`
+    * - Dative
+      - Indirect Object
+      - to, for
+      - :math:`ae`
+      - :math:`\overline{i}s`
+    * - Accusitive
+      - Direct Object
+      - N/A
+      - :math:`am`
+      - :math:`\overline{a}s`
+    * - Albative
+      - Adverbial
+      - by, with, from
+      - :math:`a`
+      - :math:`\overline{i}s`
+    * - Vocutive
+      - Direct Adress
+      - N/A
+      - :math:`a`
+      - :math:`ae`
+
 
 .. todo::
 
-  Enter rest of noun parts
+  Priciple parts
     
