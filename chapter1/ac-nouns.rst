@@ -21,6 +21,8 @@ A noun has the following properties:
 Latin
 ---------
 
+.. rubric:: Noun Parts
+
 The following types of Latin nouns are used:
 
 .. list-table:: 
@@ -63,6 +65,23 @@ The following types of Latin nouns are used:
       - N/A
       - :math:`a`
       - :math:`ae`
+
+
+.. rubric:: Stem & Endings
+
+To get a noun stem, just remove the ending.
+
+.. math::
+
+  f\overline{a}ma &= f\overline{a}m
+  f\overline{a}mae &= f\overline{a}m
+
+Then, you can add the endings:
+
+.. math::
+
+  f\overline{a}mam &= Direct Object (Sg.)
+  f\overline{a}mas &= Direct Object (Pl.)
 
 
 .. todo::
